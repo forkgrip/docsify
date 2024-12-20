@@ -4,18 +4,18 @@
 まず，自分のデバイス間で同期をするためのankiアカウントを作成
 https://ankiweb.net/about
 そしたら，右上の「`Sing Up`」ボタンでアカウントを作成する．
-![](attachment/a226b6a1f2725dee8f95090ed039cb5b.png)
+<br>![](attachment/a226b6a1f2725dee8f95090ed039cb5b.png)<br>
 入力し終えると，登録したメールにアカウント承認メールがとどくので，
-![](attachment/0aeb72f4ea83cd8b41af6e892f64c926.png)
+<br>![](attachment/0aeb72f4ea83cd8b41af6e892f64c926.png)<br>
 **Verrify Email**をクリックして，アカウントを承認，作成が完了
 # ダウンロード
 このリンクからダウンロード
-https://apps.ankiweb.net/
-![](attachment/56bbcfe8410a43c3f8e566477400a362.png)
+https://apps.ankiweb.net/ 
+<br>![](attachment/56bbcfe8410a43c3f8e566477400a362.png)<br>
 赤枠のとこ
 
 ダウンロード完了後，exeを開いて，インストール
-![](attachment/c7b5400b3d47c0831b0d37fe96a295d7.png)
+<br>![](attachment/c7b5400b3d47c0831b0d37fe96a295d7.png)<br>
 そしたら，アカウントが作成されていれば最初アカウントログイン，作成していなかったら同期ボタンから，ログインをする．
 ｛画像ない｝
 ログイン完了になると
@@ -23,7 +23,7 @@ https://ankiweb.net/decks
 で自分のデッキ（フラッシュカード）が見れるようになる．
 これで，セットアップ完了
 # Ankiの使い方
-![](attachment/3d1ff47e576f94a646a016465e0a08b5.png)
+<br>![](attachment/3d1ff47e576f94a646a016465e0a08b5.png)<br>
 これが，ホーム画面（デッキは本来ない）
 ## 機能一覧
 
@@ -47,8 +47,10 @@ https://ankiweb.net/decks
 #### 下部のボタン
 - 共有デッキのダウンロード
 https://ankiweb.net/shared/decks から，インターネット上で全体公開されているものをダウンロードする．
+
 - デッキを作成
 新たに，フラッシュカードを作成する．
+
 - ファイルのインポート
 フラッシュカードを持ってくる．（Ankiで作成し，エクスポートしたフラッシュカードを読み込んだり，csv形式のものを読み込みことができる）
 
